@@ -1,0 +1,36 @@
+body {
+  background: grey
+}
+div {
+  background: white;
+  margin: 5px 600px;
+  width: 700px;
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+  font-family: Times;
+  font-size: 25px;
+}
+img {
+  background-position: center;
+  margin: 5px 250px 5px 250px;
+    width: 200px;
+}
+p{
+margin: 5px 50px 20px 60px;
+font-family: Times;
+font-size: 18px;
+}
+ul {
+  margin: 5px 50px 20px 40px;
+  font-family: Times;
+  font-size: 18px;
+}
+a {
+  margin: 5px 50px 20px 60px
+}
+hr {
+  margin: 2px 40px 2px 40px;
+  background: black;
+}
