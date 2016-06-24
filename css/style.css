@@ -1,11 +1,17 @@
 body {
-  background: grey
+  background: grey;
 }
-div {
-  background: white;
-  margin: 5px 600px;
-  width: 700px;
-  padding: 20px;
+.wrapper {
+margin: 5px 620px;
+ width: 700px;
+ background: white;
+  padding: 7px;
+ -webkit-box-shadow: 1px 1px 10px 3px #2c1a49;
+ -moz-box-shadow: 1px 1px 10px 3px #2c1a49;
+ -ms-box-shadow: 1px 1px 10px 3px #2c1a49;
+ -o-box-shadow: 1px 1px 10px 3px #2c1a49;
+ box-shadow: 1px 1px 10px 3px #2c1a49;
+ height: 900px;
 }
 h1 {
   text-align: center;
